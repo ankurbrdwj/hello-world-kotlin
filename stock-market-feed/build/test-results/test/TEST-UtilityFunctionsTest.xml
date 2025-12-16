@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UtilityFunctionsTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-12-16T21:02:58" hostname="Ankurs-MacBook-Pro.local" time="0.011">
+  <properties/>
+  <testcase name="randomInt should return value within bounds()" classname="UtilityFunctionsTest" time="0.002"/>
+  <testcase name="generateIsin should start with two letters()" classname="UtilityFunctionsTest" time="0.001"/>
+  <testcase name="randomAZChar should return uppercase letter()" classname="UtilityFunctionsTest" time="0.0"/>
+  <testcase name="randomBetween should return value within range()" classname="UtilityFunctionsTest" time="0.002"/>
+  <testcase name="generateIsin should generate unique values()" classname="UtilityFunctionsTest" time="0.001"/>
+  <testcase name="randomDigit should return 0-9()" classname="UtilityFunctionsTest" time="0.0"/>
+  <testcase name="randomBetween should handle zero crossing ranges()" classname="UtilityFunctionsTest" time="0.0"/>
+  <testcase name="randomBetween should handle negative ranges()" classname="UtilityFunctionsTest" time="0.0"/>
+  <testcase name="generateIsin should return 12 character string()" classname="UtilityFunctionsTest" time="0.001"/>
+  <testcase name="randomDigitOrChar should return digit or uppercase letter()" classname="UtilityFunctionsTest" time="0.0"/>
+  <testcase name="generateIsin should have alphanumeric characters()" classname="UtilityFunctionsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

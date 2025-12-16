@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QuoteTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-12-16T21:02:58" hostname="Ankurs-MacBook-Pro.local" time="0.003">
+  <properties/>
+  <testcase name="should be equal when isin and price match()" classname="QuoteTest" time="0.001"/>
+  <testcase name="should handle large price values()" classname="QuoteTest" time="0.0"/>
+  <testcase name="should create quote with isin and price()" classname="QuoteTest" time="0.001"/>
+  <testcase name="should handle zero price()" classname="QuoteTest" time="0.0"/>
+  <testcase name="should convert to JSON correctly()" classname="QuoteTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

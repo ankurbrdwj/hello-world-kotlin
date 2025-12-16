@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InstrumentTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-12-16T21:02:58" hostname="Ankurs-MacBook-Pro.local" time="0.013">
+  <properties/>
+  <testcase name="should not be equal when isin differs()" classname="InstrumentTest" time="0.008"/>
+  <testcase name="should create instrument with isin and description()" classname="InstrumentTest" time="0.001"/>
+  <testcase name="should support data class copy()" classname="InstrumentTest" time="0.0"/>
+  <testcase name="should be equal when isin and description match()" classname="InstrumentTest" time="0.001"/>
+  <testcase name="should convert to JSON correctly()" classname="InstrumentTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
